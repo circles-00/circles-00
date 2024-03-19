@@ -1,5 +1,5 @@
 # Hi, I'm Nikola Krezeski
-<p style="text-align: center;">Senior Software Engineer @[Banzae](https://www.linkedin.com/company/banzae/mycompany) | Studying Computer Science @[FCSE](https://finki.ukim.mk)</p>
+<p style="text-align: center;">Senior Software Engineer @<a href ="https://www.linkedin.com/company/banzae/mycompany">Banzae</a> | Studying Computer Science @<a href="https://finki.ukim.mk">FCSE</a></p>
 
 ## About me
 I'm a software engineer with a passion for learning and teaching. I'm currently working at Banzae as a Senior Software Engineer. I'm also studying Computer Science at Faculty of Computer Science and Engineering in Skopje, Macedonia. I'm passionate about technology and I'm always looking for new things to learn and improve my skills.
