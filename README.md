@@ -12,26 +12,8 @@ And, also, the most important thing, I use Vim btw.
 ### Some of my side-projects
 - [dotfiles](https://github.com/circles-00/dotfiles)
 - [nvim-discord-status](https://github.com/circles-00/nvim-discord-status)
+- [musifier](https://github.com/circles-00/musifier)
+- [teachers-directory](https://github.com/circles-00/teachers_directory)
 - [apm-tracker](https://github.com/circles-00/apm-tracker)
 - [react-native-wear-communication-module](https://github.com/circles-00/react-native-wear-communication-module)
-
 And for more, you can check my Github profile.
-
-### Editor
-[![Neovim](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
-
-## Technologies
-### Used at work
-[![Used at work](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,prisma,react,nextjs,tailwind,html,css,docker,gitlab,github,bitbucket,git,aws,figma&theme=dark&perline=6)](https://skillicons.dev)
-
-### Learned at uni
-[![Learned at uni](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,clojure)](https://skillicons.dev)
-
-### Currently learning
-[![Currently learning](https://skillicons.dev/icons?i=go,lua)](https://skillicons.dev)
-
-### Formerly worked with (I worked as a linux system administrator) and currently using personally
-[![Formerly worked with and currently using](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash&theme=dark&perline=5)](https://skillicons.dev)
-
-### Internship and honorable mentions
-[![Honorable mentions](https://skillicons.dev/icons?i=dart,flutter,jenkins,kubernetes&theme=dark&perline=5)](https://skillicons.dev)
